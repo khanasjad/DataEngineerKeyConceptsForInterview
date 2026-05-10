@@ -12,7 +12,7 @@
 
 **Definition:** dbt transforms data in your warehouse using SELECT statements. It's "analytics engineering" - bringing software engineering practices to data transformations.
 
-**Core Idea:**
+**Core Idea:**t
 ```
 Raw Data → dbt (SQL + tests + docs) → Analytics-Ready Tables
 ```
