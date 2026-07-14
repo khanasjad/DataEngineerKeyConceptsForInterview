@@ -24,6 +24,7 @@ Raw Data → dbt (SQL + tests + docs) → Analytics-Ready Tables
 - Manages dependencies (DAG)
 - Version controls transformations
 
+ 
 **What dbt does NOT do:**
 - Extract or load data (E and L of ETL)
 - Orchestrate pipelines (use Airflow for that)
